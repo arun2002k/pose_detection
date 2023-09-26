@@ -6,7 +6,7 @@ mpDraw = mp.solutions.drawing_utils
 mpPose = mp.solutions.pose
 pose = mpPose.Pose()
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture('sample1.mp4') #or you can use cv2.VideoCapture(0) -> which captures real time video from webcam.
 pTime = 0
 while True:
     success, img = cap.read()

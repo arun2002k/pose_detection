@@ -22,7 +22,7 @@ To run tests, run the following command in terminal or Command Prompt.
 ```
 
 
-## Screenshots
+## Screenshot
 
 ![Picture1](https://github.com/arun2002k/pose_detection/assets/85438554/df6d2f55-de45-48c9-b4d9-8bf9f39a1b1b)
 

@@ -18,7 +18,7 @@ Install Opencv and Mediapipe
 To run tests, run the following command in terminal or Command Prompt.
 
 ```bash
-  python posedetction.py
+ python posedetction.py
 ```
 
 
